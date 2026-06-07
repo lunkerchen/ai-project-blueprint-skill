@@ -1,6 +1,7 @@
 # 🎯 AI Project Blueprint
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![中文文档](https://img.shields.io/badge/📖-中文文档-teal.svg)](README.zh-TW.md)
 [![AI Agent](https://img.shields.io/badge/AI-Agent%20Ready-blue)](https://github.com/lunkerchen/ai-project-blueprint-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-Skill-orange)](https://hermes-agent.nousresearch.com)
 [![Claude](https://img.shields.io/badge/Claude-Projects-purple)](https://claude.ai)
